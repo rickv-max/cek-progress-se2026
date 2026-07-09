@@ -219,7 +219,7 @@ const App = () => {
                 <div className="mt-3.5 inline-flex items-center gap-1.5 px-3 py-1.5 bg-blue-100/60 rounded-md border border-blue-200/50">
                   <Info className="w-3.5 h-3.5 text-blue-600" />
                   <span className="text-xs font-medium text-blue-800">
-                    Progres dihitung dari: <span className="font-bold">Draft + Submit + Approved + Reject</span>
+                    Progres dihitung dari: <span className="font-bold">Open + Submit + Approved + Reject</span>
                   </span>
                 </div>
               </div>
